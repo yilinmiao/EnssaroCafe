@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">EnssaroCafe</string>
+    <string name="enssaro_cafe">Enssaro Cafe</string>
+    <string name="contact">Contact: (917)993-0363</string>
+    <string name="address">Address: SF, CA</string>
 </resources>
